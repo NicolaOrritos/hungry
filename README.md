@@ -1,4 +1,4 @@
-# hungry [![Build Status](https://secure.travis-ci.org/NicolaOrritos/hungry.png?branch=master)](http://travis-ci.org/NicolaOrritos/hungry)
+# hungry
 
 A hungry feed parser
 
