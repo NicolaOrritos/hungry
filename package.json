@@ -1,6 +1,6 @@
 {
   "name": "hungry",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "main": "lib/hungry.js",
   "description": "Hungry feed parser",
   "homepage": "https://github.com/NicolaOrritos/hungry",
